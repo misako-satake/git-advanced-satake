@@ -5,7 +5,7 @@ package com.example;
  *
  */
 public class Car {
-	private String name;//2回目の変更です
+	private String name;//好きな名前
 	private int speed;
 	public String getName() {
 		return name;
