@@ -5,7 +5,7 @@ package com.example;
  *
  */
 public class Car {
-	private String name;
+	private String name;//車種
 	private int speed;
 	public String getName() {
 		return name;
